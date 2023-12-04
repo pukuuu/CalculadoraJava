@@ -18,6 +18,7 @@ public class CalculadoraApp {
                 else if (operacion == 5) {
                     System.out.println("Hasta pronto...");
                     break;
+
                 }
                 else {
                     System.out.println("Opcion erronea "+operacion);
